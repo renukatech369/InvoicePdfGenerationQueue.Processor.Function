@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "QueueCon": "YOUR_SERVICE_BUS_CONNECTION_STRING",
+    "BlobStorageConnection": "YOUR_BLOB_CONNECTION_STRING",
+    "InvoiceContainerName": "invoices"
+  }
+}
